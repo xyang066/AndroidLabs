@@ -23,13 +23,13 @@
     <!--android:column_Weight="1" -->
     <RadioButton
         android:text="RadioButton"
-        android:layout_width="wrap_content"
+        android:layout_width="154dp"
         android:layout_height="wrap_content"
         android:id="@+id/radioButton" />
 
     <CheckBox
         android:text="CheckBox"
-        android:layout_width="wrap_content"
+        android:layout_width="176dp"
         android:layout_height="wrap_content"
         android:id="@+id/checkBox" />
 
@@ -40,7 +40,7 @@
         android:id="@+id/switch1" />
 
     <ImageButton
-        android:layout_width="wrap_content"
+        android:layout_width="180dp"
         android:layout_height="wrap_content"
         app:srcCompat="@android:drawable/btn_star_big_on"
         android:id="@+id/imageButton" />
