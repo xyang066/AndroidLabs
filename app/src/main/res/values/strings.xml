@@ -4,4 +4,13 @@
     <string name="ButtonText">I\'m a button</string>
     <string name="title_activity_login">Login</string>
     <string name="title_activity_list_items">ListItemsActivity</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="radioButton">RadioButton</string>
+    <string name="checkButton">CheckBox</string>
+    <string name="sw">Enable Something</string>
+    <string name="dialog_title">Finish</string>
+    <string name="dialog_message">Do you want to finish the activity?</string>
+    <string name="ok">ok</string>
+    <string name="cancel">cancel</string>
 </resources>
